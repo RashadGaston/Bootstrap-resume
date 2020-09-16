@@ -1,0 +1,11 @@
+.bg-gradient-primary{
+    background-color: dodgerblue;
+}
+
+.bg-gradient-success{
+    background-color: lightgreen;
+}
+
+.badge {
+    float: Right;
+}
